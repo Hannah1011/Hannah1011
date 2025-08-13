@@ -10,19 +10,23 @@
 
 ### 🌟 About Me
 👩🏻‍💻 I'm a **triple-major** student in IT Engineering, Big Data, and Business Administration at **Sookmyung Women’s University** (Graduating Feb 2026).  
-👩🏻‍💻 Currently, I’m an **Intern in Business Operations** at [Apptest.ai](https://apptest.ai/) in the Bay Area, creating content strategies to connect people with products, and deriving insights from data. 
-👩🏻‍💻 I’m passionate about **Machine Learning, Data Analytics, and Product Management**.
+Currently, I’m an **Intern in Business Operations** at [Apptest.ai](https://apptest.ai/) in the Bay Area, creating content strategies to connect people with products, and deriving insights from data. 
+
+I’m passionate about **Machine Learning, Data Analytics, and Product Management**.
 
 ---
 
-## ⚡️ A Few Quick Facts
+### ⚡️ A Few Quick Facts
 - 🔭 I’m currently learning:
   - Deep Learning Specialization
   - Fundamentals of Machine Learning for Healthcare
 - 🤝 I’m looking to collaborate on **LLM projects, NLP applications, and data analytics**
 - 💬 Ask me about **Python, ML, DL, LLM Evaluation**
 - 📄 [CV | Resume](_link_to_resume_pdf_here_) *(Coming soon!)*
-- 🎯 Fun facts: I ❤️ listening to classical music | 🥾 enjoy hiking & dancing | 🍳 passionate about cooking
+- 🎯 Fun facts:
+  - 🎵 I ❤️ listening to classical music  
+  - 🥾 I enjoy hiking & dancing  
+  - 🍳 I’m passionate about cooking
 
 ---
 
